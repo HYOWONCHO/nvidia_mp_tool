@@ -1,0 +1,3 @@
+[submodule "common"]
+	path = tegrarcm
+	url = https://github.com/NVIDIA/tegrarcm
